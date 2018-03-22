@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <h1>git</h1>
     <m-header></m-header>
     <tab></tab>
     <router-view></router-view>
